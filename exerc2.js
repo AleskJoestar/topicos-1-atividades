@@ -24,10 +24,13 @@ Imprima na tela as informações, dispostas conforme o exemplo abaixo.
     Impressão na tela conforme o exemplo acima.*/
 
 
-    let valorHora = 5;
-    let horasTrabalhadas = 220;
+    //let valorHora = 5;
+    //let horasTrabalhadas = 220;
+
+function calcularSalario(valorHora, horasTrabalhadas){
     let inss=0;
     let salarioBruto=0;
+
     salarioBruto = valorHora * horasTrabalhadas;
     
     inss = salarioBruto * 0.1;
@@ -61,6 +64,8 @@ Imprima na tela as informações, dispostas conforme o exemplo abaixo.
 
     console.log("Salário Bruto: R$ "+ salarioBruto);
     console.log("Salário Liquido: R$ "+ salarioliquido);
+}
     
+    module.exports = calcularSalario;
 
 

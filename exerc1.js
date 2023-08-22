@@ -15,12 +15,12 @@
     - o valor do aumento;
     - o novo salário, após o aumento.*/
 
-    let salario = 600;
+  //let salario = 600;
 
-    function calcularReajuste(salario) {
+function calcularReajuste(salario) {
         let percentual = 0;
         let aumento = 0;
-    }
+    
 
     if (salario <= 280) {
        percentual = 20
@@ -47,7 +47,6 @@
     console.log("Valor do aumento: R$ "+ aumento);
     console.log("Novo salário após o aumento: R$ "+ novoSalario);
 
+}
 
-
-
-
+module.exports = calcularReajuste;

@@ -6,10 +6,10 @@
     calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90
     */
 
-    let litros = 1;
-    let tipo = "A";
-    let valor = 0
-
+    //let litros = 1;
+    //let tipo = "A";
+    //let valor = 0
+function combustivel(litros,tipo,valor){
 
     if (tipo == "A") {
         valor = litros * 1.90;
@@ -19,3 +19,6 @@
     }
 
     console.log("O combustivel será "+ tipo + ", o valor será : R$ "+ valor);
+}
+
+module.exports = combustivel;

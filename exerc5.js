@@ -15,7 +15,7 @@ a quantidade de carne por cliente. Se compra for feita no cartão Assaí o clien
 Escreva um script que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, 
 contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.*/ 
 
-let tipoCarne = "Picanha";
+/*let tipoCarne = "Picanha";
 let quantidadeCarne = 1;
 let kgCarne = 2.0;
 let valorDesconto = 0;
@@ -23,7 +23,9 @@ let valoraPagar = 0;
 let valorTotal = 0;
 let totalAPagar = 0;
 let desconto = 0;
-let tipoPagamento = "Cartão Assai"
+let tipoPagamento = "Cartão Assai"*/
+
+function mercado(tipoCarne, quantidadeCarne, kgCarne, valorDesconto, valoraPagar, valorTotal, totalAPagar ,desconto, tipoPagamento ){
 
 if (tipoCarne == "File Duplo") {
     if (quantidadeCarne <=5) {
@@ -59,3 +61,7 @@ totalAPagarcomDesconto = totalAPagar - desconto;
 
 console.log("TIPO DE CARNE: "+ tipoCarne+"\n PREÇO TOTAL: "+totalAPagar+"\n TIPO DE PAGAMENTO: "+tipoPagamento+"\n VALOR DESCONTO: "+
  valorDesconto+"\n VALOR A PAGAR: "+totalAPagarcomDesconto);
+
+}
+
+module.exports = mercado;
