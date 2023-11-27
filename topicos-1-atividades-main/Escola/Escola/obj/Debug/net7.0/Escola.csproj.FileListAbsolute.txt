@@ -1,0 +1,14 @@
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\bin\Debug\net7.0\Escola.exe
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\bin\Debug\net7.0\Escola.deps.json
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\bin\Debug\net7.0\Escola.runtimeconfig.json
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\bin\Debug\net7.0\Escola.dll
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\bin\Debug\net7.0\Escola.pdb
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\Escola.AssemblyInfoInputs.cache
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\Escola.AssemblyInfo.cs
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\Escola.dll
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\refint\Escola.dll
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\Escola.pdb
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\Escola.genruntimeconfig.cache
+C:\Users\Suporte Onda Agil\Desktop\topicos-1-atividades-main\topicos-1-atividades-main\Escola\Escola\obj\Debug\net7.0\ref\Escola.dll
