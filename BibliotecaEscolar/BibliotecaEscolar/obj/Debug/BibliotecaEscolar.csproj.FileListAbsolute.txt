@@ -1,0 +1,7 @@
+C:\Users\Suporte Onda Agil\source\repos\BibliotecaEscolar\BibliotecaEscolar\bin\Debug\BibliotecaEscolar.exe.config
+C:\Users\Suporte Onda Agil\source\repos\BibliotecaEscolar\BibliotecaEscolar\bin\Debug\BibliotecaEscolar.exe
+C:\Users\Suporte Onda Agil\source\repos\BibliotecaEscolar\BibliotecaEscolar\bin\Debug\BibliotecaEscolar.pdb
+C:\Users\Suporte Onda Agil\source\repos\BibliotecaEscolar\BibliotecaEscolar\obj\Debug\BibliotecaEscolar.csproj.AssemblyReference.cache
+C:\Users\Suporte Onda Agil\source\repos\BibliotecaEscolar\BibliotecaEscolar\obj\Debug\BibliotecaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Suporte Onda Agil\source\repos\BibliotecaEscolar\BibliotecaEscolar\obj\Debug\BibliotecaEscolar.exe
+C:\Users\Suporte Onda Agil\source\repos\BibliotecaEscolar\BibliotecaEscolar\obj\Debug\BibliotecaEscolar.pdb
